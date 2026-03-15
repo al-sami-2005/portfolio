@@ -87,22 +87,23 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>ARTIFICIAL INTELLIGENCE & MACHINE LEARNING</h3>
+              <h4>Building Intelligent Systems and Data-Driven Solutions</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                I am passionate about Artificial Intelligence, Machine Learning, and Data Science, focusing on building intelligent systems that can analyze data, recognize patterns, and automate complex tasks. I work with modern AI tools and algorithms to develop smart applications, predictive models, and data-driven solutions.
+                <br /><br />
+                My goal is to design AI-powered software that solves real-world problems, improves decision-making, and creates scalable intelligent technologies.
               </p>
-              <h5>Skillset & tools</h5>
+              <h5>Skills & Tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">Machine Learning</div>
+                <div className="what-tags">Deep Learning</div>
+                <div className="what-tags">Data Analysis</div>
+                <div className="what-tags">TensorFlow</div>
+                <div className="what-tags">Scikit-learn</div>
+                <div className="what-tags">Pandas</div>
+                <div className="what-tags">NumPy</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,22 +127,20 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h3>SOFTWARE DEVELOPMENT</h3>
+              <h4>Building Scalable, High-Performance Applications</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                I develop modern software applications and web systems with a focus on performance, scalability, and clean architecture. My experience includes designing efficient backend logic, building APIs, and developing reliable software solutions.
+                <br /><br />
+                I enjoy combining software engineering with AI technologies to build innovative applications that are efficient, secure, and future-ready.
               </p>
-              <h5>Skillset & tools</h5>
+              <h5>Skills & Tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
                 <div className="what-tags">Python</div>
+                <div className="what-tags">JavaScript</div>
+                <div className="what-tags">Node.js</div>
+                <div className="what-tags">REST APIs</div>
+                <div className="what-tags">Git</div>
               </div>
               <div className="what-arrow"></div>
             </div>

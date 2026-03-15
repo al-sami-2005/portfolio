@@ -6,33 +6,38 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 const projects = [
   {
     title: "Solid Starters",
-    category: "Low-Code Platform",
-    tools: "Angular, Next.js, NestJS, MongoDB",
+    category: "Low-Code AI Platform",
+    tools: "Angular, Next.js, NestJS, MongoDB, Machine Learning",
     image: "/images/Solidx.png",
+    alt: "Low-code AI platform architecture and frontend built with Next.js and Angular"
   },
   {
     title: "Radix",
-    category: "E-Commerce",
-    tools: "Angular, Next.js, NestJS, CMS",
+    category: "Intelligent E-Commerce",
+    tools: "Angular, Next.js, NestJS, Headless CMS",
     image: "/images/radix.png",
+    alt: "E-commerce intelligent dashboard featuring modern web architecture"
   },
   {
     title: "Bond Cancellation",
-    category: "Import-Export Automation",
-    tools: "Angular, Next.js, NestJS, Workflows",
+    category: "Automated Data Workflows",
+    tools: "Angular, Next.js, Automation pipelines",
     image: "/images/bond.png",
+    alt: "Automated import-export workflow system with data processing"
   },
   {
     title: "Sapphire",
-    category: "CRM Platform",
+    category: "Predictive CRM Platform",
     tools: "AngularJS, NestJS, PostgreSQL",
     image: "/images/sapphire.png",
+    alt: "Enterprise predictive CRM platform with advanced data analytics"
   },
   {
     title: "Mpro",
-    category: "Insurance Platform",
-    tools: "React.js, Node.js, Microservices",
+    category: "Insurance Tech & Microservices",
+    tools: "React.js, Node.js, Microservices, Python",
     image: "/images/Maxlife.png",
+    alt: "Insurance technology platform built with React and scalable microservices"
   },
 ];
 
@@ -63,10 +68,10 @@ const Work = () => {
   }, [currentIndex, goToSlide]);
 
   return (
-    <div className="work-section" id="work">
+    <section className="work-section" id="work" aria-labelledby="work-heading">
       <div className="work-container section-container">
-        <h2>
-          My <span>Work</span>
+        <h2 id="work-heading">
+          My AI & Machine Learning <span>Projects</span>
         </h2>
 
         <div className="carousel-wrapper">
@@ -97,28 +102,28 @@ const Work = () => {
               }}
             >
               {projects.map((project, index) => (
-                <div className="carousel-slide" key={index}>
+                <article className="carousel-slide" key={index}>
                   <div className="carousel-content">
                     <div className="carousel-info">
                       <div className="carousel-number">
                         <h3>0{index + 1}</h3>
                       </div>
                       <div className="carousel-details">
-                        <h4>{project.title}</h4>
+                        <h4 style={{fontSize: "2rem"}}>{project.title}</h4>
                         <p className="carousel-category">
                           {project.category}
                         </p>
                         <div className="carousel-tools">
-                          <span className="tools-label">Tools & Features</span>
+                          <span className="tools-label">Tech Stack & AI Tools</span>
                           <p>{project.tools}</p>
                         </div>
                       </div>
                     </div>
                     <div className="carousel-image-wrapper">
-                      <WorkImage image={project.image} alt={project.title} />
+                      <WorkImage image={project.image} alt={project.alt || project.title} />
                     </div>
                   </div>
-                </div>
+                </article>
               ))}
             </div>
           </div>
@@ -138,7 +143,7 @@ const Work = () => {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 
