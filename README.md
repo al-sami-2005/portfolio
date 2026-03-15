@@ -5,7 +5,7 @@ A high-end, interactive 3D portfolio featuring a custom avatar, smooth GSAP anim
 ![Portfolio Preview](public/preview.png) *(Note: Add a screenshot of your site here!)*
 
 ## 🚀 Live Demo
-[View Live Portfolio](https://your-github-username.github.io/al-sami-portfolio/) *(Replace with your actual URL)*
+[View Live Portfolio](https://www.alsami.site/) *(Replace with your actual URL)*
 
 ## ✨ Key Features
 - **3D Interactive Avatar**: Custom-designed 3D model integrated with React Three Fiber.
@@ -58,5 +58,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Contact
 - **Name**: Al Sami
 - **Role**: AI/ML Engineer & Software Developer
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub](https://github.com/your-username)
+- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/al-sami-10as70)
+- **GitHub**: [Your GitHub](https://github.com/al-sami-2005)
