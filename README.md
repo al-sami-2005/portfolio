@@ -2,8 +2,7 @@
 
 A high-end, interactive 3D portfolio featuring a custom avatar, smooth GSAP animations, and a modern ML/AI focused aesthetic. Built with React, Vite, and Three.js.
 
-
-![Portfolio Preview](<img width="1847" height="1025" alt="image" src="https://github.com/user-attachments/assets/80c9d3b1-c2af-4961-828f-de16d6810e71" />) *(Note: Add a screenshot of your site here!)*
+(<a href="https://ibb.co/QFXhxYz2"><img src="https://i.ibb.co/pvnNk4Gt/image.png" alt="image" border="0"></a>)
 
 ## 🚀 Live Demo
 [View Live Portfolio](https://www.alsami.site/)
