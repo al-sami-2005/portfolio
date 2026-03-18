@@ -2,10 +2,11 @@
 
 A high-end, interactive 3D portfolio featuring a custom avatar, smooth GSAP animations, and a modern ML/AI focused aesthetic. Built with React, Vite, and Three.js.
 
-![Portfolio Preview](public/preview.png) *(Note: Add a screenshot of your site here!)*
+
+![Portfolio Preview](<img width="1847" height="1025" alt="image" src="https://github.com/user-attachments/assets/80c9d3b1-c2af-4961-828f-de16d6810e71" />) *(Note: Add a screenshot of your site here!)*
 
 ## 🚀 Live Demo
-[View Live Portfolio](https://www.alsami.site/) *(Replace with your actual URL)*
+[View Live Portfolio](https://www.alsami.site/)
 
 ## ✨ Key Features
 - **3D Interactive Avatar**: Custom-designed 3D model integrated with React Three Fiber.
