@@ -35,4 +35,4 @@ assignees: al-sami-2005
 
 ---
 
-> **Note:** For faster response, you can also email [hello@alsami.com](mailto:hello@alsami.com?subject=[Source Code Request] Portfolio) directly with the subject `[Source Code Request] Portfolio`.
+> **Note:** For faster response, you can also email [alsami1070@gmail.com](mailto:alsami1070@gmail.com?subject=[Source Code Request] Portfolio) directly with the subject `[Source Code Request] Portfolio`.

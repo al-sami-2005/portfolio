@@ -285,14 +285,14 @@ const defaultSiteData = {
     title: "Let's",
     titleAccent: 'Work Together',
     subtitle: "I'm currently open to new opportunities. Whether you have a project, want to collaborate, or just want to say hi — my inbox is always open.",
-    email: 'hello@alsami.com',
+    email: 'alsami1070@gmail.com',
     ctaText: 'Say Hello',
     phones: [
       { number: '+1 (555) 123-4567', href: 'tel:+15551234567' },
       { number: '+1 (555) 987-6543', href: 'tel:+15559876543' },
     ],
     socials: [
-      { label: 'GitHub',    url: 'https://github.com/AlSami' },
+      { label: 'GitHub',    url: 'https://github.com/al-sami-2005' },
       { label: 'Twitter',   url: 'https://twitter.com/AlSami' },
       { label: 'LinkedIn',  url: 'https://www.linkedin.com/in/al-sami/' },
       { label: 'Instagram', url: 'https://www.instagram.com/al_sami/' },

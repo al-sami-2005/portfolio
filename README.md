@@ -15,8 +15,8 @@
   <a href="https://al-sami-2005.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Now-2c6975?style=for-the-badge" alt="Live Demo"/>
   </a>
-  <a href="mailto:hello@alsami.com?subject=[Source Code Request] Portfolio">
-    <img src="https://img.shields.io/badge/📬%20Request%20Source-hello@alsami.com-68b2a0?style=for-the-badge" alt="Contact"/>
+  <a href="mailto:alsami1070@gmail.com?subject=[Source Code Request] Portfolio">
+    <img src="https://img.shields.io/badge/📬%20Request%20Source-alsami1070@gmail.com-68b2a0?style=for-the-badge" alt="Contact"/>
   </a>
 </p>
 
@@ -212,7 +212,7 @@ If you're interested in:
 
 | Method | Details |
 |---|---|
-| 📧 **Email** | [hello@alsami.com](mailto:hello@alsami.com?subject=[Source%20Code%20Request]%20Portfolio) |
+| 📧 **Email** | [alsami1070@gmail.com](mailto:alsami1070@gmail.com?subject=[Source%20Code%20Request]%20Portfolio) |
 | 💼 **LinkedIn** | [linkedin.com/in/al-sami](https://www.linkedin.com/in/al-sami/) |
 | 🐦 **Twitter/X** | [@AlSami](https://twitter.com/AlSami) |
 | 🐙 **GitHub** | [Open an Issue](https://github.com/al-sami-2005/portfolio/issues/new/choose) |
@@ -246,8 +246,8 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
 |---|---|
 | **Al Sami** | Software & Machine Learning Engineer |
 | 📍 | United Kingdom |
-| 🌐 | [alsami.com](https://al-sami-2005.github.io/portfolio/) |
-| 📧 | [hello@alsami.com](mailto:hello@alsami.com) |
+| 🌐 | [alsami.site](https://al-sami-2005.github.io/portfolio/) |
+| 📧 | [alsami1070@gmail.com](mailto:alsami1070@gmail.com) |
 | 💼 | [LinkedIn](https://www.linkedin.com/in/al-sami/) |
 | 🐙 | [GitHub](https://github.com/al-sami-2005) |
 
@@ -267,7 +267,7 @@ without explicit written permission from the copyright owner.
 See LICENSE for full terms.
 ```
 
-For licensing inquiries: [hello@alsami.com](mailto:hello@alsami.com?subject=[License%20Inquiry]%20Portfolio)
+For licensing inquiries: [alsami1070@gmail.com](mailto:alsami1070@gmail.com?subject=[License%20Inquiry]%20Portfolio)
 
 ---
 
@@ -281,7 +281,7 @@ For licensing inquiries: [hello@alsami.com](mailto:hello@alsami.com?subject=[Lic
 
 <p>
   <a href="https://al-sami-2005.github.io/portfolio/">🌐 Live Demo</a> · 
-  <a href="mailto:hello@alsami.com?subject=[Source Code Request] Portfolio">📬 Request Source</a> · 
+  <a href="mailto:alsami1070@gmail.com?subject=[Source Code Request] Portfolio">📬 Request Source</a> · 
   <a href="https://github.com/al-sami-2005/portfolio/issues">🐛 Report Bug</a> · 
   <a href="https://github.com/al-sami-2005/portfolio/issues">💡 Request Feature</a>
 </p>

@@ -60,7 +60,7 @@ The simplest contribution — star this repo to help others discover it!
 
 If you'd like access to the source code for educational, personal, or commercial purposes:
 
-1. **Email** [hello@alsami.com](mailto:hello@alsami.com?subject=[Source Code Request] Portfolio)
+1. **Email** [alsami1070@gmail.com](mailto:alsami1070@gmail.com?subject=[Source Code Request] Portfolio)
 2. **Subject line:** `[Source Code Request] Portfolio`
 3. **Include in your message:**
    - Your name and background
@@ -91,7 +91,7 @@ Be respectful, constructive, and kind. This is a personal project and I maintain
 
 ## 📞 Contact
 
-- **Email:** [hello@alsami.com](mailto:hello@alsami.com)
+- **Email:** [alsami1070@gmail.com](mailto:alsami1070@gmail.com)
 - **LinkedIn:** [linkedin.com/in/al-sami](https://www.linkedin.com/in/al-sami/)
 - **GitHub Issues:** [github.com/al-sami-2005/portfolio/issues](https://github.com/al-sami-2005/portfolio/issues)
 
