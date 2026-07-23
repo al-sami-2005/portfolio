@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Al Sami — Software & Machine Learning Engineer based in the UK. Building AI solutions, mobile apps, and web experiences." />
+    <meta name="theme-color" content="#05050a" />
+    <meta property="og:title" content="Al Sami | Software & ML Engineer" />
+    <meta property="og:description" content="Software & Machine Learning Engineer — React, Python, Flutter, AI/Robotics." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://al-sami-2005.github.io/portfolio/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Al Sami | Software & ML Engineer" />
+    <meta name="twitter:description" content="Software & Machine Learning Engineer — React, Python, Flutter, AI/Robotics." />
+    <title>Al Sami | Software & ML Engineer</title>
+    <!-- SPA redirect handler for GitHub Pages -->
+    <script>
+      (function(l) {
+        if (l.search[1] === '/') {
+          var decoded = l.search.slice(1).split('&').map(function(s) {
+            return s.replace(/~and~/g, '&')
+          }).join('?');
+          window.history.replaceState(null, null,
+            l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      }(window.location))
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
